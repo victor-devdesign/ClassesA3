@@ -1,6 +1,13 @@
 
 public class Equipes {
+	/**
+	 * Número de funcionários da equipe
+	 */
 	private int nFuncionarios;
+
+	/**
+	 * Função da equipe
+	 */
 	private String funcao;
 	
 	public int getnFuncionarios() {
